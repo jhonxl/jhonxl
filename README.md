@@ -1,6 +1,7 @@
 ## Olá, eu sou o Jhon
 
 - 🌱 Estudante de Python
+- Estudante de HTML e CSS
 
 <div align="center">
   <a href="https://github.com/jhonxl"</a>
