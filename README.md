@@ -1,24 +1,59 @@
-## Bem vindo.
+
+
+---
+
+# 🐉 Bem-vindo.
 
 <div align="center">
-  <a href="https://github.com/jhonxl"</a>
+  <a href="https://github.com/jhonxl"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonxl&layout=compact&langs_count=7&theme=dark"/>
-
-  </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="jhon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-          
-          
-          
 </div>
 
-##
+---
+
+## 🔥 Stack & Ferramentas (Offensive Security)
+
+<div style="display: inline_block"><br>
+
+  <!-- Kali -->
+
+  <img height="40" src="https://cdn.simpleicons.org/kalilinux/blue" title="Kali Linux"/>
+  <!-- Burp -->
+  <img height="40" src="https://cdn.simpleicons.org/portswigger/orange" title="Burp Suite"/>
+  <!-- Metasploit -->
+  <img height="40" src="https://cdn.simpleicons.org/metasploit/white" title="Metasploit Framework"/>
+  <!-- Nmap -->
+  <img height="40" src="https://cdn.simpleicons.org/gnometerminal/white" title="Nmap"/>
+  <!-- Linux -->
+  <img height="40" src="https://cdn.simpleicons.org/linux/black" title="Linux"/>
+  <!-- Python -->
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+  <!-- JS -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+
+</div>
+
+---
+
+**Hacker Ético | Pentester | Red Team**
+🔎 Especializado em **Web Application Security**, atuando em:
+
+* Pentest ofensivo (OWASP Top 10 / API Security)
+* Identificação e exploração de vulnerabilidades
+* Bypass de autenticação, WAF e filtros
+* Recon avançado, automação e exploração
+* Red Team com foco em aplicação e superfícies expostas
+
+---
+
+## 🛡️ Badges
+
+![Pentester](https://img.shields.io/badge/Pentester-Ethical_Hacking-red?style=for-the-badge\&logo=kalilinux)
+![Red Team](https://img.shields.io/badge/Red%20Team-Offensive%20Ops-black?style=for-the-badge\&logo=proxmox)
+
+---
+
+## 🌐 Redes
 
 <div>
   <a href="https://instagram.com/_jhonrr?igshid=YmMyMTA2M2Y=" target="_blank">
@@ -29,3 +64,7 @@
   </a>
 </div>
 
+---
+
+
+É só pedir! 🚀
