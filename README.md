@@ -1,5 +1,4 @@
 
-
 ---
 
 # 🐉 Bem-vindo.
@@ -16,7 +15,6 @@
 <div style="display: inline_block"><br>
 
   <!-- Kali -->
-
   <img height="40" src="https://cdn.simpleicons.org/kalilinux/blue" title="Kali Linux"/>
   <!-- Burp -->
   <img height="40" src="https://cdn.simpleicons.org/portswigger/orange" title="Burp Suite"/>
@@ -49,6 +47,7 @@
 ## 🛡️ Badges
 
 ![Pentester](https://img.shields.io/badge/Pentester-Ethical_Hacking-red?style=for-the-badge\&logo=kalilinux)
+
 ![Red Team](https://img.shields.io/badge/Red%20Team-Offensive%20Ops-black?style=for-the-badge\&logo=proxmox)
 
 ---
@@ -66,5 +65,3 @@
 
 ---
 
-
-É só pedir! 🚀
