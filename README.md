@@ -34,6 +34,7 @@
 ---
 
 **Hacker Ético | Pentester | Red Team**
+
 🔎 Especializado em **Web Application Security**, atuando em:
 
 * Pentest ofensivo (OWASP Top 10 / API Security)
