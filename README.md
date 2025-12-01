@@ -48,7 +48,6 @@
 ## 🛡️ Badges
 
 ![Pentester](https://img.shields.io/badge/Pentester-Ethical_Hacking-red?style=for-the-badge\&logo=kalilinux)
-
 ![Red Team](https://img.shields.io/badge/Red%20Team-Offensive%20Ops-black?style=for-the-badge\&logo=proxmox)
 
 ---
