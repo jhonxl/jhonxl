@@ -3,10 +3,10 @@
 
 # 🐉 Bem-vindo.
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/jhonxl"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonxl&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div>-->
 
 ---
 
